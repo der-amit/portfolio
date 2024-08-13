@@ -1,3 +1,5 @@
+# Amit Kumar Mishra
+
 ## Education
 **The University of Texas at Dallas** | August 2022 - May 2024 <br/>
 Master's in Business Analytics - GPA: 3.63 Cum Laude
@@ -6,7 +8,7 @@ Master's in Business Analytics - GPA: 3.63 Cum Laude
 Bachelor's in Telecommunication Engineering - First Class
 
 ## Work Experience
-### High-Performance Operations Intern | October 2023 – April 2024
+### High-Performance Operations Intern _(October 2023 – April 2024)_
 **Orlando City SC, Dallas, TX**
 
 * Developed Machine Learning models to enhance the predictive accuracy of the Fatigue Index and Readiness Score by 15%, utilizing Hyperparameter tuning and Elastic Net regularization.
@@ -14,7 +16,7 @@ Bachelor's in Telecommunication Engineering - First Class
 * Collaborated with the Sports Science Department to provide insights based on KPIs, creating Tableau dashboards that facilitated data-driven strategies for optimizing player performance. 
 * Conducted data cleaning and pre-processing on performance data to ensure data quality. 
 
-### Data Analyst | August 2018 – July 2022
+### Data Analyst _(August 2018 – July 2022)_
 **M/S Witball Co, Bengaluru, KA**
 
 * Designed and implemented ETL pipelines using Python, Apache Airflow, and Databricks improving data accuracy by 20%. 
@@ -27,7 +29,7 @@ Bachelor's in Telecommunication Engineering - First Class
 * Integrated research insights from various tools into strategic planning, ad placement, and decision-making process.
 
 
-### Content Analyst, Sports Editor | April 2017 – July 2018
+### Content Analyst, Sports Editor _(April 2017 – July 2018)_
 **Sportskeeda, Bengaluru, KA**
 
 * Leveraged SQL queries to perform in-depth data analysis, identifying high-performing marketing channels.
