@@ -39,7 +39,7 @@ Bachelor's in Telecommunication Engineering - First Class
 
 ## Technical Skills
 **Languages**: HTML, SQL, R, Python, Java
-**Softwares**: MS Excel (VLOOKUP, Pivot Table), SAP Hana, Tableau, Power BI, Looker, Alteryx, HubSpot, SPSS, Minitab   return
+**Softwares**: MS Excel (VLOOKUP, Pivot Table), SAP Hana, Tableau, Power BI, Looker, Alteryx, HubSpot, SPSS, Minitab   <br/>
 **Developer** **Tools**: Jupyter Notebook, RStudio, PyCharm, VS Code, Git, Docker, Apache Airflow, Databricks   return
 **Cloud Platforms**: AWS (S3, EC2, Redshift, SageMaker, Lambda), Databricks   return
 **Certifications**: AWS Cloud Practitioner, Tableau, Alteryx Foundational Micro-Credential, Time Series AnalysisDeep Learning, Machine Learning with Tree-Based Models, Data Analysis with Databricks SQL, Lean Manufacturing, Six Sigma
