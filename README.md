@@ -1,21 +1,21 @@
 <img width="300" alt="image" src="https://github.com/user-attachments/assets/c88888ce-1605-4ec3-a184-d95f559dbe13">
 
 
-### Education
+## Education
 **The University of Texas at Dallas** | August 2022 - May 2024 <br/>
 Master's in Business Analytics - GPA: 3.63 Cum Laude
 
 **Dayananda Sagar College of Engineering** | August 2010 - May 2014 <br/>
 Bachelor's in Telecommunication Engineering - First Class
 
-### Technical Skills
+## Technical Skills
 **Languages**: HTML, SQL, R, Python, Java <br/>
 **Softwares**: MS Excel (VLOOKUP, Pivot Table), SAP Hana, Tableau, Power BI, Looker, Alteryx, HubSpot, SPSS, Minitab   <br/>
 **Developer** **Tools**: Jupyter Notebook, RStudio, PyCharm, VS Code, Git, Docker, Apache Airflow, Databricks   <br/>
 **Cloud Platforms**: AWS (S3, EC2, Redshift, SageMaker, Lambda), Azure, Databricks   <br/>
 **Certifications**: AWS Cloud Practitioner, Tableau, Alteryx Foundational Micro-Credential, Time Series Analysis, Deep Learning, Machine Learning, Data Analysis with Databricks SQL, Lean Manufacturing, Six Sigma
 
-### Work Experience
+## Work Experience
 **High-Performance Operations Intern _(October 2023 – April 2024)_**
 Orlando City SC, Dallas, TX
 
