@@ -32,16 +32,16 @@ Bachelor's in Telecommunication Engineering - First Class
 ### Content Analyst, Sports Editor | April 2017 – July 2018
 **Sportskeeda, Bengaluru, KA**
 
-* Leveraged SQL queries to perform in-depth data analysis, identifying high-performing marketing channels.  return
-* Utilized Google Analytics and Google Search Console data from over 15 million monthly users to revise and refine content strategies, leading to a 10% improvement in Google Search ranking.  return
+* Leveraged SQL queries to perform in-depth data analysis, identifying high-performing marketing channels.
+* Utilized Google Analytics and Google Search Console data from over 15 million monthly users to revise and refine content strategies, leading to a 10% improvement in Google Search ranking.
 * Edited and published articles across various sports genres, securing three Editor of the Month awards for excellence in content quality.
 * Authored over 70 columns and conducted athlete interviews, contributing diverse perspectives to enhance audience engagement and site content.
 
 ## Technical Skills
 **Languages**: HTML, SQL, R, Python, Java
-**Softwares**: MS Excel (VLOOKUP, Pivot Table), SAP Hana, Tableau, Power BI, Looker, Alteryx, HubSpot, SPSS, Minitab
-**Developer** **Tools**: Jupyter Notebook, RStudio, PyCharm, VS Code, Git, Docker, Apache Airflow, Databricks
-**Cloud Platforms**: AWS (S3, EC2, Redshift, SageMaker, Lambda), Databricks
+**Softwares**: MS Excel (VLOOKUP, Pivot Table), SAP Hana, Tableau, Power BI, Looker, Alteryx, HubSpot, SPSS, Minitab   return
+**Developer** **Tools**: Jupyter Notebook, RStudio, PyCharm, VS Code, Git, Docker, Apache Airflow, Databricks   return
+**Cloud Platforms**: AWS (S3, EC2, Redshift, SageMaker, Lambda), Databricks   return
 **Certifications**: AWS Cloud Practitioner, Tableau, Alteryx Foundational Micro-Credential, Time Series AnalysisDeep Learning, Machine Learning with Tree-Based Models, Data Analysis with Databricks SQL, Lean Manufacturing, Six Sigma
 
 
