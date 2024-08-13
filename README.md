@@ -12,9 +12,9 @@ Bachelor's in Telecommunication Engineering - First Class
 ### High-Performance Operations Intern | October 2023 – April 2024
 **Orlando City SC, Dallas, TX**
 
-•	Developed Machine Learning models to enhance predictive accuracy of the Fatigue Index and Readiness Score by 15%, utilizing Hyperparameter tuning and Elastic Net regularization.\
-•	Extracted key insights from performance data and constructed a real-time decision support tool by deploying a regression-based Readiness Score Predictor on Streamlit. \
-•	Collaborated with the Sports Science Department to provide insights based on KPIs, creating Tableau dashboards that facilitated data-driven strategies for optimizing player performance. \
+•	Developed Machine Learning models to enhance predictive accuracy of the Fatigue Index and Readiness Score by 15%, utilizing Hyperparameter tuning and Elastic Net regularization.##
+•	Extracted key insights from performance data and constructed a real-time decision support tool by deploying a regression-based Readiness Score Predictor on Streamlit. ##
+•	Collaborated with the Sports Science Department to provide insights based on KPIs, creating Tableau dashboards that facilitated data-driven strategies for optimizing player performance. ##
 •	Conducted data cleaning and pre-processing on performance data to ensure data quality. 
 
 ### Data Analyst | August 2018 – July 2022\
