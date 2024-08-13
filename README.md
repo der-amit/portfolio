@@ -43,7 +43,7 @@ Sportskeeda, Bengaluru, KA
 * Leveraged SQL queries to perform in-depth data analysis, identifying high-performing marketing channels.
 * Utilized Google Analytics and Google Search Console data from over 15 million monthly users to revise and refine content strategies, leading to a 10% improvement in Google Search ranking.
 * Edited and published articles across various sports genres, securing three Editor of the Month awards for excellence in content quality.
-* Authored over 70 columns and conducted athlete interviews, contributing diverse perspectives to enhance audience engagement and site content.
+* Authored over [70 columns]([url](https://www.sportskeeda.com/author/amit)) and conducted athlete interviews, contributing diverse perspectives to enhance audience engagement and site content.
 
 
 
