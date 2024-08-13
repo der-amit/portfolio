@@ -1,10 +1,8 @@
-# Amit Kumar Mishra
-
 ## Education
-**The University of Texas at Dallas** | August 2022 - May 2024
-Master's in Business Analytics - GPA: 3063 Cum Laude
+**The University of Texas at Dallas** | August 2022 - May 2024 <br/>
+Master's in Business Analytics - GPA: 3.63 Cum Laude
 
-**Dayananda Sagar College of Engineering** | August 2010 - May 2014
+**Dayananda Sagar College of Engineering** | August 2010 - May 2014 <br/>
 Bachelor's in Telecommunication Engineering - First Class
 
 ## Work Experience
@@ -38,10 +36,10 @@ Bachelor's in Telecommunication Engineering - First Class
 * Authored over 70 columns and conducted athlete interviews, contributing diverse perspectives to enhance audience engagement and site content.
 
 ## Technical Skills
-**Languages**: HTML, SQL, R, Python, Java
+**Languages**: HTML, SQL, R, Python, Java <br/>
 **Softwares**: MS Excel (VLOOKUP, Pivot Table), SAP Hana, Tableau, Power BI, Looker, Alteryx, HubSpot, SPSS, Minitab   <br/>
-**Developer** **Tools**: Jupyter Notebook, RStudio, PyCharm, VS Code, Git, Docker, Apache Airflow, Databricks   return
-**Cloud Platforms**: AWS (S3, EC2, Redshift, SageMaker, Lambda), Databricks   return
-**Certifications**: AWS Cloud Practitioner, Tableau, Alteryx Foundational Micro-Credential, Time Series AnalysisDeep Learning, Machine Learning with Tree-Based Models, Data Analysis with Databricks SQL, Lean Manufacturing, Six Sigma
+**Developer** **Tools**: Jupyter Notebook, RStudio, PyCharm, VS Code, Git, Docker, Apache Airflow, Databricks   <br/>
+**Cloud Platforms**: AWS (S3, EC2, Redshift, SageMaker, Lambda), Azure, Databricks   <br/>
+**Certifications**: AWS Cloud Practitioner, Tableau, Alteryx Foundational Micro-Credential, Time Series Analysis, Deep Learning, Machine Learning, Data Analysis with Databricks SQL, Lean Manufacturing, Six Sigma
 
 
