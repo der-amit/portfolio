@@ -8,7 +8,7 @@
     <img src="https://github.com/favicon.ico" alt="github"> Github
   </a> &nbsp;
   <a href="https://public.tableau.com/app/profile/amishra/vizzes" rel="nofollow noreferrer">
-  <img src = "https://www.tableau.com/favicon.ico")> Tableau
+  <img src = "https://www.tableau.com/favicon.ico"> Tableau
 </p> <br/>
 
 ## Education
