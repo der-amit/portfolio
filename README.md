@@ -1,5 +1,14 @@
 <img width="300" alt="image" src="https://github.com/user-attachments/assets/c88888ce-1605-4ec3-a184-d95f559dbe13">
-
+<p>
+  <a href="https://https://www.linkedin.com/in/amit-k-mishra/" rel="nofollow noreferrer">
+    <img src="https://icons.iconarchive.com/icons/social-media-icons/glossy-social/48/Linkedin-icon.png" alt="linkedin"> LinkedIn
+  </a> &nbsp; 
+  <a href="https://github.com/der-amit" rel="nofollow noreferrer">
+    <img src="https://github.com/favicon.ico" alt="github"> Github
+  </a> &nbsp;
+  <a href="https://public.tableau.com/app/profile/amishra/vizzes" rel="nofollow noreferrer">
+  <img src = "https://www.tableau.com/favicon.ico")> Tableau
+</p> 
 
 ## Education
 **The University of Texas at Dallas** | August 2022 - May 2024 <br/>
@@ -9,7 +18,7 @@ Master's in Business Analytics - GPA: 3.63 Cum Laude
 Bachelor's in Telecommunication Engineering - First Class
 
 ## Technical Skills
-**Languages**: HTML, SQL, R, Python, Java <br/>
+**Languages**: SQL, R, Python, Javascript, PySpark <br/>
 **Softwares**: MS Excel (VLOOKUP, Pivot Table), SAP Hana, Tableau, Power BI, Looker, Alteryx, HubSpot, SPSS, Minitab   <br/>
 **Developer** **Tools**: Jupyter Notebook, RStudio, PyCharm, VS Code, Git, Docker, Apache Airflow, Databricks   <br/>
 **Cloud Platforms**: AWS (S3, EC2, Redshift, SageMaker, Lambda), Azure, Databricks   <br/>
@@ -19,7 +28,7 @@ Bachelor's in Telecommunication Engineering - First Class
 **High-Performance Operations Intern _(October 2023 – April 2024)_**
 Orlando City SC, Dallas, TX
 
-* Developed Machine Learning models to enhance the predictive accuracy of the Fatigue Index and Readiness Score by 15%, utilizing Hyperparameter tuning and Elastic Net regularization.
+* Developed Machine Learning models to enhance the predictive accuracy of the Fatigue Index and Readiness Score by **14%**, utilizing Hyperparameter tuning and Elastic Net regularization.
 * Extracted key insights from performance data and constructed a real-time decision support tool by deploying a regression-based Readiness Score Predictor on Streamlit. 
 * Collaborated with the Sports Science Department to provide insights based on KPIs, creating Tableau dashboards that facilitated data-driven strategies for optimizing player performance. 
 * Conducted data cleaning and pre-processing on performance data to ensure data quality. 
@@ -27,14 +36,13 @@ Orlando City SC, Dallas, TX
 **Data Analyst _(August 2018 – July 2022)_**
 M/S Witball Co, Bengaluru, KA
 
-* Designed and implemented ETL pipelines using Python, Apache Airflow, and Databricks improving data accuracy by 20%. 
+* Developed and automated an ETL pipeline using Databricks to ingest, transform, and load Google Analytics data, enabling real-time insights.
 * Utilized PostgreSQL for efficient data storage and retrieval, ensuring high performance and scalability.
-* Engineered an A/B testing framework using Python and pandas to assess and optimize content strategies, resulting in a 15% increase in click-through rates for targeted articles.
-* Automated data extraction, transformation, and loading processes, ensuring seamless integration of data from various sources, including GA4 and Facebook Insights, into PostgreSQL databases.
-* Conducted financial analysis by comparing ad revenue data against forecasts, providing key insights that informed strategic planning and resource allocation. 
-* Leveraged Power BI and Databricks for data visualization and reporting to analyze user demographics, customer segmentation, and behavior patterns, enabling data-driven decision-making across the organization.
-* Developed and maintained time series models on Databricks to support accurate forecasting, budgeting, and long-term revenue planning, aligning with strategic content upgrades and market trends.
-* Integrated research insights from various tools into strategic planning, ad placement, and decision-making process.
+* Engineered an A/B testing framework with Python and pandas, optimizing content strategies and increasing click-through rates by **15%**.
+* Conducted financial analysis comparing ad revenue data with forecasts, providing insights for strategic planning and resource allocation.
+* Leveraged Power BI and Databricks for data visualization and reporting, analyzing user demographics, segmentation, and behavior patterns.
+* Developed and maintained time series models in Databricks to enhance forecasting, budgeting, and long-term revenue planning.
+* Integrated research insights into strategic planning, ad placement, and decision-making processes.
 
 
 **Content Analyst, Sports Editor _(April 2017 – July 2018)_**
