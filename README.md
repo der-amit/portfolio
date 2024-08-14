@@ -1,3 +1,4 @@
+
 <img width="300" alt="image" src="https://github.com/user-attachments/assets/c88888ce-1605-4ec3-a184-d95f559dbe13">
 <p>
   <a href="https://https://www.linkedin.com/in/amit-k-mishra/" rel="nofollow noreferrer">
@@ -8,7 +9,7 @@
   </a> &nbsp;
   <a href="https://public.tableau.com/app/profile/amishra/vizzes" rel="nofollow noreferrer">
   <img src = "https://www.tableau.com/favicon.ico")> Tableau
-</p> 
+</p> <br/>
 
 ## Education
 **The University of Texas at Dallas** | August 2022 - May 2024 <br/>
